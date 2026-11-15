@@ -2,7 +2,7 @@
 
 This repository contains a Jupyter Notebook for reproducing the red curve in a schematic figure from our paper.
 
-The curve illustrates the trade-off between the average Pauli weight ($W(O)$) and the scaled quantum Fourier entropy ($S_a(O)/\lambda$).
+The curve illustrates the trade-off between the average Pauli weight (${W(O)}$) and the scaled quantum Fourier entropy ($S_a(O)/\lambda$).
 
 
 ## Contents
